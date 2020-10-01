@@ -1,3 +1,8 @@
 # Machine-Learning-Projects
-This is a CUSTOMER CHURN ANALYSIS  model created using ML keeping ANN as the backbone
-The model can be used to detect churn in a retail banking sector
+This model of "CUSTOMER CHURN ANALYSIS" is created with the help of two popular ML algorithms "Binary Classifier" and "Artificial Neural Network".
+The model can be used to detect churn in any sector.
+This project takes the data of a retail banking sector and using FeedForward Neural Networks predicts the "customer churn".
+
+The model is evaluated using "Confusion Matrix" and "AUC-ROC Curve".
+
+Given attached is the Documentation of the Entire Project as well as the Source Code Files.
