@@ -5,4 +5,4 @@ This project takes the data of a retail banking sector and using FeedForward Neu
 
 The model is evaluated using "Confusion Matrix" and "AUC-ROC Curve".
 
-Given attached is the Documentation of the Entire Project as well as the Source Code Files.
+Given attached is the Documentation of the Entire Project, the Presentation as well as the Source Code Files.
